@@ -28,7 +28,7 @@ Our team exported call logs from the phone system and analysed them by hand in E
 No build step.
 
 ```bash
-git clone https://github.com/<your-username>/edu-cash-call-analytics.git
+git clone https://github.com/MohamedAmr-9/edu-cash-call-analytics.git
 cd edu-cash-call-analytics
 # just open index.html, or serve it:
 python3 -m http.server 8000
