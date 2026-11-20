@@ -1,0 +1,9 @@
+# real data must never be committed
+*.xlsx
+*.xls
+*.csv
+!sample-data/sample_calls.csv
+
+node_modules/
+.DS_Store
+Thumbs.db
